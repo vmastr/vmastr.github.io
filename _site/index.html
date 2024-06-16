@@ -3,6 +3,9 @@
   <head>
     <title>Vlassis Mastrantonis | University of Maryland</title>
 
+    <!-- Latex Support  -->
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -64,13 +67,13 @@
         
 
         
-        <a style="margin: 0 5px 0 0" href="https://github.com/">
+        <a style="margin: 0 5px 0 0" href="https://github.com/vmastr">
           <i class="fab fa-github"></i>
         </a>
         
 
         
-        <a style="margin: 0 5px 0 0" href="https://www.linkedin.com/">
+        <a style="margin: 0 5px 0 0" href="https://www.linkedin.com/in/vmastr/">
           <i class="fab fa-linkedin"></i>
         </a>
         
@@ -82,27 +85,39 @@
       </header>
       <section>
 
-      <h2 id="about-me">About Me</h2>
+      <!-- For LaTeX -->
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 
-<p>I am a Ph.D. student at UMD</p>
+<script id="MathJax-script" async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<h2 id="research-interests">Research Interests</h2>
+<script type="text/x-mathjax-config">
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+      ignoreHtmlClass: 'tex2jax_ignore'
+    }
+  };
+</script>
+
+<h2 id="about-me">About Me</h2>
+
+<p>Welcome to my website! I am a Ph.D. candidate at the <a href="https://www-math.umd.edu/">University of Maryland, College Park</a>, advised by <a href="https://math.umd.edu/~yanir/">Yanir A. Rubinstein</a>. I just finished my fifth year, and plan to graduate Spring 2025. I am interested in convex geometry and geometric analysis. My research includes:</p>
 
 <ul>
-  <li><strong>Computer Vision:</strong> image recognition, image generation, video captioning</li>
-  <li><strong>Machine Learning:</strong> meta-learning, incremental learning, transfer learning</li>
+  <li>1 Book $2^n$</li>
+  <li>2</li>
 </ul>
 
-<h2 id="news">News</h2>
+<!-- ## Research Interests
 
-<ul>
-  <li><strong>[Feb. 2020]</strong> Our paper about incremental learning is accepted to CVPR 2020.</li>
-  <li><strong>[Feb. 2020]</strong> We will host the ACM Multimedia Asia 2020 conference in Singapore!</li>
-  <li><strong>[Sept. 2019]</strong> Our paper about few-shot learning is accepted to NeurIPS 2019.</li>
-  <li><strong>[Mar. 2019]</strong> Our paper about few-shot learning is accepted to CVPR 2019.</li>
-</ul>
+- **Computer Vision:** image recognition, image generation, video captioning
+- **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications and Preprints</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -116,7 +131,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 0px;">
       <div class="title"><a href="https://arxiv.org/abs/2401.10992">Two-dimensional Błocki, Lp-Mahler, and Bourgain conjectures,</a></div>
-      <div class="author"></div>
+      <div class="author">joint with Y.A. Rubinstein,</div>
       <div class="periodical"><em>preprint, 2024, arxiv: 2401:10992.</em>
       </div>
     <div class="links">
@@ -127,11 +142,13 @@
       
       
       
-      
+            
     </div>
   </div>
 </div>
 
+<!-- <br> -->
+<div class="small-gap"></div> <!-- Use this div for a smaller gap -->
 
 
 <div class="pub-row">
@@ -152,11 +169,13 @@
       
       
       
-      
+            
     </div>
   </div>
 </div>
 
+<!-- <br> -->
+<div class="small-gap"></div> <!-- Use this div for a smaller gap -->
 
 
 <div class="pub-row">
@@ -167,7 +186,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 0px;">
       <div class="title"><a href="https://arxiv.org/abs/2304.14363">Lp-polarity, Mahler volumes, and the isotropic constant,</a></div>
       <div class="author">joint with B. Berndtsson and Y.A. Rubinstein,</div>
-      <div class="periodical"><em>preprint, 2023, axriv: 2304.14363</em>
+      <div class="periodical"><em>preprint, 2023, axriv: 2304.14363.</em>
       </div>
     <div class="links">
       <!--  
@@ -177,11 +196,13 @@
       
       
       
-      
+            
     </div>
   </div>
 </div>
 
+<!-- <br> -->
+<div class="small-gap"></div> <!-- Use this div for a smaller gap -->
 
 
 <div class="pub-row">
@@ -202,11 +223,13 @@
       
       
       
-      
+            
     </div>
   </div>
 </div>
 
+<!-- <br> -->
+<div class="small-gap"></div> <!-- Use this div for a smaller gap -->
 
 
 <div class="pub-row">
@@ -227,11 +250,13 @@
       
       
       
-      
+            
     </div>
   </div>
 </div>
 
+<!-- <br> -->
+<div class="small-gap"></div> <!-- Use this div for a smaller gap -->
 
 
 <div class="pub-row">
@@ -252,17 +277,33 @@
       
       
       
-      
+            
     </div>
   </div>
 </div>
 
+<!-- <br> -->
+<div class="small-gap"></div> <!-- Use this div for a smaller gap -->
 
 
 </ol>
 </div>
 
-<h2 id="services">Services</h2>
+<h2 id="code">Code</h2>
+
+<p><a href="https://github.com/vmastr/magicMahler">magicMahler</a> is a Python library designed for geometric computations involving polytopes in the plane. Key features include calculating key essential notions from my reserach:</p>
+<ul>
+  <li>Lp-Mahler volumes</li>
+  <li>The isotropic constant</li>
+  <li>The B-constant</li>
+  <li>Implementation of the Mahler algorithm</li>
+  <li>Implementation of th Graham scan for finding the extreme points in $nlogn$ time.</li>
+</ul>
+
+<p>The library is currently under construction :)</p>
+
+<!-- 
+## Services
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
@@ -277,7 +318,7 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-</ul>
+</ul> -->
 
 
       <br>

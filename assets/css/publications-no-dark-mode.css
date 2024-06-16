@@ -11,6 +11,10 @@
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
+.small-gap {
+    margin-top: 8px; /* Adjust the value to get the desired spacing */
+  }
+
 .badge {
     color: #fff !important;
     border-radius: 0.125rem;

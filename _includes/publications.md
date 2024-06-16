@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications and Preprints</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -37,11 +37,13 @@
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
-      {% endif %}
+      {% endif %}      
     </div>
   </div>
 </div>
 
+<!-- <br> -->
+<div class="small-gap"></div> <!-- Use this div for a smaller gap -->
 {% endfor %}
 
 </ol>
