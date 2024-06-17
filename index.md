@@ -32,7 +32,7 @@ I received my undergraduate degree from the [University of Athens](https://www.m
 - The isotropic constant
 - The B-constant
 - Implementation of the Mahler algorithm
-- Implementation of th Graham scan for finding the extreme points in $nlogn$ time.
+- Implementation of th Graham scan for finding the extreme points in nlogn time.
 
 The library is currently under construction but here is an example of a Graham scan implementation: 
 

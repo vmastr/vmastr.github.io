@@ -23,7 +23,7 @@ main:
     # image: ./assets/img/teaser_example.png
 
 
-  - title: $L^p$-polarity, Mahler volumes, and the isotropic constant,
+  - title: Lp-polarity, Mahler volumes, and the isotropic constant,
     authors: joint with B. Berndtsson and Y.A. Rubinstein, 
     # conference_short: MICCAI
     conference: "preprint, 2023, axriv: 2304.14363."
