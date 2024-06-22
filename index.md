@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome to my website! I am a Ph.D. candidate at the [University of Maryland, College Park](https://www-math.umd.edu/), advised by [Yanir A. Rubinstein](https://math.umd.edu/~yanir/). I just finished my fifth year, and plan to graduate Spring 2025. I am interested in convex geometry and geometric analysis. 
+Welcome to my website! I am a Ph.D. candidate at the [University of Maryland, College Park](https://www-math.umd.edu/), advised by [Yanir A. Rubinstein](https://math.umd.edu/~yanir/). I just finished my fifth year, and plan to graduate Spring 2025. I am interested in geometric analysis, convex geometry, several complex variables, and geometric flows.
 
 I received my undergraduate degree from the [University of Athens](https://www.math.uoa.gr/) in 2017, and completed the [Part III of the Mathematical Tripos](https://www.maths.cam.ac.uk/postgrad/part-iii/current) at Cambridge University in 2018. 
 

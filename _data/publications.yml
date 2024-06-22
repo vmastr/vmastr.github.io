@@ -1,7 +1,7 @@
 main:
 
-  - title: Two-dimensional Błocki, Lp-Mahler, and Bourgain conjectures, 
-    authors: joint with Y.A. Rubinstein,
+  - title: Two-dimensional Błocki, Lp-Mahler, and Bourgain conjectures
+    authors: (with Y.A. Rubinstein),
     # conference_short: CVPR
     conference: "preprint, 2024, arxiv: 2401:10992." 
     pdf: https://arxiv.org/abs/2401.10992
@@ -11,7 +11,7 @@ main:
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
 
-  - title: A Santaló inquality for the Lp-polar, 
+  - title: A Santaló inquality for the Lp-polar body
     # authors: 
     # conference_short: CVPR
     conference: "preprint, 2024, arxiv: 2401:10836, to appear in Contemp. Math., AMS." 
@@ -23,18 +23,18 @@ main:
     # image: ./assets/img/teaser_example.png
 
 
-  - title: Lp-polarity, Mahler volumes, and the isotropic constant,
-    authors: joint with B. Berndtsson and Y.A. Rubinstein, 
+  - title: Lp-polarity, Mahler volumes, and the isotropic constant
+    authors: (with B. Berndtsson and Y.A. Rubinstein), 
     # conference_short: MICCAI
-    conference: "preprint, 2023, axriv: 2304.14363, to appear in Anal. PDE."
+    conference: "preprint, 2023, axriv: 2304.14363, to appear in Analysis & PDE."
     pdf: https://arxiv.org/abs/2304.14363
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
     # notes: Early Accept
 
-  - title: The Nazarov proof of the non-symmetric Bourgain--Milman inequality, 
-    authors: joint with Y.A. Rubinstein,
+  - title: The Nazarov proof of the non-symmetric Bourgain--Milman inequality 
+    authors: (with Y.A. Rubinstein),
     # conference_short: CVPR
     conference: "preprint, 2023, arxiv: 2206:06188, to appear in Indiana Univ. Math. J." 
     pdf: https://arxiv.org/abs/2206.06188
@@ -44,8 +44,8 @@ main:
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
 
-  - title: Relations of the spaces Ap and Cp, 
-    authors: joint with N. Georgakopoulos and V. Nestoridis,
+  - title: Relations of the spaces Ap and Cp 
+    authors: (with N. Georgakopoulos and V. Nestoridis),
     # conference_short: CVPR
     conference: Results Math. 73, 86 (2018).  
     pdf: https://link.springer.com/article/10.1007/s00025-018-0842-5
@@ -55,8 +55,8 @@ main:
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
 
-  - title: Nowhere differentiable functions of analytic type on products of finitely connected planar domains, 
-    authors: joint with C. Panagiotis,
+  - title: Nowhere differentiable functions of analytic type on products of finitely connected planar domains 
+    authors: (with C. Panagiotis),
     # conference_short: CVPR
     conference: Monatsh. Math. 187 (2018), 327--341. 
     pdf: https://link.springer.com/article/10.1007/s00605-017-1129-8
