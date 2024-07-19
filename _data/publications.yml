@@ -26,8 +26,8 @@ main:
   - title: Lp-polarity, Mahler volumes, and the isotropic constant
     authors: (with B. Berndtsson and Y.A. Rubinstein), 
     # conference_short: MICCAI
-    conference: "preprint, 2023, axriv: 2304.14363, to appear in Analysis & PDE."
-    pdf: https://arxiv.org/abs/2304.14363
+    conference: Analysis & PDE 17-6 (2024), 2179--2245.
+    pdf: https://msp.org/apde/2024/17-6/p11.xhtml
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
