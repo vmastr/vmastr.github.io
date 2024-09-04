@@ -36,7 +36,7 @@ main:
   - title: The Nazarov proof of the non-symmetric Bourgain--Milman inequality 
     authors: (with Y.A. Rubinstein),
     # conference_short: CVPR
-    conference: "preprint, 2023, arxiv: 2206:06188, to appear in Indiana Univ. Math. J." 
+    conference: Indiana Univ. Math. J. 73 (2024), 911--953.
     pdf: https://arxiv.org/abs/2206.06188
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
