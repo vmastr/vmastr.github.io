@@ -14,24 +14,24 @@ main:
   
   - title: "Mahler--Santaló Inequalities: An Overview"
     conference: "Interaction between Convex Geometry and Complex Geometry REU"
-    location: "University of Maryland"
+    location: "University of Maryland,"
     date: "July 2024"
     link: "https://www.math.umd.edu/~mariakc/REU2024Darvas.html"
 
   - title: "Lp-Polarity, Mahler Volumes, and the Isotropic constant"
     conference: "Recent Developments in Geometric Analysis"
-    location: "AMS Spring Eastern Sectional Meeting, Howard University"
+    location: "AMS Spring Eastern Sectional Meeting, Howard University,"
     date: "6--7 April 2024"
     link: "https://www.ams.org/meetings/sectional/2312_program_ss34.html"
   
   - title: "Lp-Polarity, Mahler Volumes, and the Isotropic constant"
     conference: "Measure Theory Seminar"
-    location: "Kent State University"
+    location: "Kent State University,"
     date: "6 March 2024"
     link: "https://www.math.kent.edu/~zvavitch/seminar.html"
 
   - title: "The Bergman Kernel Approach to the Bourgain--Milman Inequality and Lp-Mahler Functionals"
     conference: "Convex and Complex: Perspectives on Positivity in Geometry"
-    location: "Cetraro, Italy"
+    location: "Cetraro, Italy,"
     date: "October 2022"
     link: "https://sites.google.com/view/convex-and-complex-2022"
