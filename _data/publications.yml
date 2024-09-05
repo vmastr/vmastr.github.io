@@ -3,7 +3,7 @@ main:
   - title: Two-dimensional Błocki, Lp-Mahler, and Bourgain conjectures
     authors: (with Y.A. Rubinstein),
     # conference_short: CVPR
-    conference: "preprint, 2024, arxiv: 2401:10992." 
+    conference: "preprint, 2024, arxiv: 2401:10992, to appear in Indiana Univ. Math. J." 
     pdf: https://arxiv.org/abs/2401.10992
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
