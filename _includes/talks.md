@@ -7,9 +7,8 @@
     <div class="talk-row" style="margin-bottom: 10px;"> <!-- Added margin-bottom for spacing -->
       <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 0px;">
         <div class="title">
-          <em>{{ talk.title }}</em>, at 
           <a href="{{ talk.link }}" target="_blank">{{ talk.conference }}</a>, 
-          {{ talk.location}}
+          {{ talk.location}} 
           {{ talk.date }}.
         </div>
       </div>
