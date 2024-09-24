@@ -37,7 +37,7 @@ main:
     authors: (with Y.A. Rubinstein),
     # conference_short: CVPR
     conference: Indiana Univ. Math. J. 73 (2024), 911--953.
-    pdf: https://arxiv.org/abs/2206.06188
+    pdf: https://www.iumj.indiana.edu/IUMJ/FULLTEXT/2024/73/9919 
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
