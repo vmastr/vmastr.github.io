@@ -1,6 +1,6 @@
 main:
 
-  - title: Two-dimensional Błocki, Lp-Mahler, and Bourgain conjectures
+  - title: Two-dimensional Błocki, \(L^p\)-Mahler, and Bourgain conjectures
     authors: (with Y.A. Rubinstein),
     # conference_short: CVPR
     conference: "preprint, 2024, arxiv: 2401:10992, to appear in Indiana Univ. Math. J." 
@@ -11,7 +11,7 @@ main:
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
 
-  - title: A Santaló inquality for the Lp-polar body
+  - title: A Santaló inquality for the \(L^p\)-polar body
     # authors: 
     # conference_short: CVPR
     conference: "preprint, 2024, arxiv: 2401:10836, to appear in Contemp. Math., AMS." 
@@ -23,20 +23,20 @@ main:
     # image: ./assets/img/teaser_example.png
 
 
-  - title: Lp-polarity, Mahler volumes, and the isotropic constant
+  - title: \(L^p\)-polarity, Mahler volumes, and the isotropic constant
     authors: (with B. Berndtsson and Y.A. Rubinstein), 
-    # conference_short: MICCAI
-    conference: Analysis & PDE 17-6 (2024), 2179--2245.
+    # conference_short: 
+    conference: Analysis & PDE 17-6 (2024), 2179-2245.
     pdf: https://msp.org/apde/2024/17-6/p11.xhtml
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
     # notes: Early Accept
 
-  - title: The Nazarov proof of the non-symmetric Bourgain--Milman inequality 
+  - title: The Nazarov proof of the non-symmetric Bourgain-Milman inequality 
     authors: (with Y.A. Rubinstein),
     # conference_short: CVPR
-    conference: Indiana Univ. Math. J. 73 (2024), 911--953.
+    conference: Indiana Univ. Math. J. 73 (2024), 911-953.
     pdf: https://www.iumj.indiana.edu/IUMJ/FULLTEXT/2024/73/9919 
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -44,7 +44,7 @@ main:
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
 
-  - title: Relations of the spaces Ap and Cp 
+  - title: Relations of the spaces \(A^p(\Omega)\) and \(C^p(\partial\Omega)\) 
     authors: (with N. Georgakopoulos and V. Nestoridis),
     # conference_short: CVPR
     conference: Results Math. 73, 86 (2018).  
@@ -58,7 +58,7 @@ main:
   - title: Nowhere differentiable functions of analytic type on products of finitely connected planar domains 
     authors: (with C. Panagiotis),
     # conference_short: CVPR
-    conference: Monatsh. Math. 187 (2018), 327--341. 
+    conference: Monatsh. Math. 187 (2018), 327-341. 
     pdf: https://link.springer.com/article/10.1007/s00605-017-1129-8
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/

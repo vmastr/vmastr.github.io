@@ -1,21 +1,16 @@
 main:
 
-  - title: ""
-    conference: "Analysis Seminar"
-    location: "SAMPS, Athens, Greece,"
-    date: "13 January 2025"
-    link: "https://sites.google.com/view/analysis-seminar-samps/"
 
   - title: "A Mahler-type inequality for the Bergman kernels"
     conference: "Midwestern Workshop in Geometric Analysis"
     location: "Indiana University,"
-    date: "11--13 October 2024"
+    date: "11-13 October 2024"
     link: "http://mwaa.math.indianapolis.iu.edu/"
 
   - title: "A Mahler-type inequality for the Bergman kernels"
-    conference: "Gothenburg Complex Geometry"
+    conference: "Gothenburg Complex Geometry Conference"
     location: "Gothenburg, Sweeden,"
-    date: "26--30 August 2024"
+    date: "26-30 August 2024"
     link: "https://sites.google.com/view/gothenburgmath2024/overview?authuser=0"
   
   - title: "Mahler--Santaló Inequalities: An Overview"
@@ -27,14 +22,8 @@ main:
   - title: "Lp-Polarity, Mahler Volumes, and the Isotropic constant"
     conference: "Recent Developments in Geometric Analysis"
     location: "AMS Spring Eastern Sectional Meeting, Howard University,"
-    date: "6--7 April 2024"
+    date: "6-7 April 2024"
     link: "https://www.ams.org/meetings/sectional/2312_program_ss34.html"
-  
-  - title: "Lp-Polarity, Mahler Volumes, and the Isotropic constant"
-    conference: "Measure Theory Seminar"
-    location: "Kent State University,"
-    date: "6 March 2024"
-    link: "https://www.math.kent.edu/~zvavitch/seminar.html"
 
   - title: "The Bergman Kernel Approach to the Bourgain--Milman Inequality and Lp-Mahler Functionals"
     conference: "Convex and Complex: Perspectives on Positivity in Geometry"

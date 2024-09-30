@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## About
 
 Welcome to my webpage! I am a Ph.D. candidate at the [University of Maryland, College Park](https://www-math.umd.edu/), advised by [Yanir A. Rubinstein](https://math.umd.edu/~yanir/). I am currently in my sixth year, and plan to graduate Spring 2025. I am interested in geometric analysis, convex geometry, several complex variables, and geometric flows.
 
@@ -28,7 +28,17 @@ I received my undergraduate degree from the [University of Athens](https://www.m
 
 <!-- {% include_relative _includes/services.md %} -->
 
-{% include_relative _includes/talks.md %}
+{% include_relative _includes/conference_talks.md %}
+
+{% include_relative _includes/seminar_talks.md %}
+
+<!-- ## Outreach
+Mentored five undergraduate projects over three years for the [Directed Reading Program](http://drp.math.umd.edu/) at the University of Maryland: 
+- Alejandro Escoto, *[Geometric Flows in Python](http://drp.math.umd.edu/pastprojects.php)*, Fall 2023
+- Brooke Guo, *[The isoperimetric inequality from antiquity to Steiner](http://drp.math.umd.edu/pastprojects.php)*, Spring 2023
+- Alejandro Escoto, *[The de Rham cohomology](http://drp.math.umd.edu/pastprojects.php)*, Fall 2022
+- Abdulrahman Alenazi, *[The 2-dimensional Mahler conjecture](http://drp.math.umd.edu/pastprojects.php)*, Spring 2022
+- Aryan Kaul, *[The 2-dimensional Brouwer fixed point theorem](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://drp.math.umd.edu/Project-Slides/KaulSpring2021.pdf)*, Spring 2021 -->
 
 
 ## Code
