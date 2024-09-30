@@ -1,5 +1,11 @@
 main:
 
+  - title: ""
+    conference: "Analysis Seminar"
+    location: "SAMPS, Athens, Greece"
+    date: "13 January 2025"
+    link: "https://sites.google.com/view/analysis-seminar-samps/"
+
   - title: "A Mahler-type inequality for the Bergman kernels"
     conference: "Midwestern Workshop in Geometric Analysis"
     location: "Indiana University,"
