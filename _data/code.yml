@@ -1,0 +1,11 @@
+- title: "magicMahler"
+  description: "A Python library designed for geometric computations involving polytopes in the plane. Key features include calculating essential notions from my research:"
+  features:
+    - \(L^p\)-Mahler volumes"
+    - "The isotropic constant"
+    - "The B-constant"
+    - "Implementation of the Mahler algorithm"
+    - "Implementation of the Graham scan for finding the extreme points in nlogn time."
+  example_image: "assets/img/graham_scan.gif"
+  example_caption: "Graham Scan"
+  url: "https://github.com/vmastr/magicMahler"

@@ -55,3 +55,10 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+
+# To display LaTeX code in .md files
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter: rouge
