@@ -12,12 +12,6 @@ main:
     location: "Gothenburg, Sweeden,"
     date: "26-30 August 2024"
     link: "https://sites.google.com/view/gothenburgmath2024/overview?authuser=0"
-  
-  - title: "Mahler--Santaló Inequalities: An Overview"
-    conference: "Interaction between Convex Geometry and Complex Geometry REU"
-    location: "University of Maryland,"
-    date: "July 2024"
-    link: "https://www.math.umd.edu/~mariakc/REU2024Darvas.html"
 
   - title: "Lp-Polarity, Mahler Volumes, and the Isotropic constant"
     conference: "Recent Developments in Geometric Analysis"
@@ -30,3 +24,4 @@ main:
     location: "Cetraro, Italy,"
     date: "October 2022"
     link: "https://sites.google.com/view/convex-and-complex-2022"
+    youtube_link: https://youtu.be/3rAvjMOjOnc?si=ysuWeyIoa657rzmr 

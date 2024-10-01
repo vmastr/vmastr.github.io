@@ -33,23 +33,14 @@ I received my undergraduate degree from the [University of Athens](https://www.m
 {% include_relative _includes/seminar_talks.md %}
 
 ## Outreach
-Mentored five undergraduate projects over three years for the [Directed Reading Program](http://drp.math.umd.edu/) at the University of Maryland: 
+Over the past three years, I have mentored five undergraduate projects for the [Directed Reading Program](http://drp.math.umd.edu/) at the University of Maryland: 
 - Alejandro Escoto, *[Geometric Flows in Python](/assets/files/Geometric_Flows_in_Python.pdf)*, Fall 2023
 - Brooke Guo, *[The isoperimetric inequality from antiquity to Steiner](/assets/files/Isoperimetric_inequality.pdf)*, Spring 2023
 - Alejandro Escoto, *[The de Rham cohomology](/assets/files/DeRham.pdf)*, Fall 2022
 - Abdulrahman Alenazi, *[The 2-dimensional Mahler conjecture](/assets/files/2DMahler_.pdf)*, Spring 2022
 - Aryan Kaul, *[The 2-dimensional Brouwer fixed point theorem](http://drp.math.umd.edu/Project-Slides/KaulSpring2021.pdf)*, Spring 2021
 
+I also gave a talk at the [Interaction between Convex Geometry and Complex Geometry REU](https://www.math.umd.edu/~mariakc/REU2024Darvas.html) at the University of Maryland on July 1, 2024.
 
-## Code
 
-[magicMahler](https://github.com/vmastr/magicMahler) is a Python library designed for geometric computations involving polytopes in the plane. Key features include calculating essential notions from my reserach:
-- Lp-Mahler volumes
-- The isotropic constant
-- The B-constant
-- Implementation of the Mahler algorithm
-- Implementation of th Graham scan for finding the extreme points in nlogn time.
-
-Here is an example of a Graham scan implementation: 
-
-![Graham Scan](assets/img/graham_scan.gif)
+{% include_relative _includes/code.md %}
