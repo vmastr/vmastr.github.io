@@ -3,4 +3,4 @@ features:
   - The isotropic constant
   - The B-constant
   - Implementation of the Mahler algorithm
-  - Implementation of the Graham scan for finding the extreme points in nlogn time.
+  - Implementation of the Graham scan for finding the extreme points in \(nlogn\) time.

@@ -1,13 +1,13 @@
 main:
 
   - title: ""
-    conference: "Analysis Seminar"
-    location: "SAMPS, Athens, Greece,"
-    date: "13 January 2025"
+    conference: "Analysis Seminar SAMPS"
+    location: "Athens, Greece,"
+    date: "January 13, 2025"
     link: "https://sites.google.com/view/analysis-seminar-samps/"
   
   - title: "Lp-Polarity, Mahler Volumes, and the Isotropic constant"
     conference: "Measure Theory Seminar"
     location: "Kent State University,"
-    date: "6 March 2024"
+    date: "March 6, 2024"
     link: "https://www.math.kent.edu/~zvavitch/seminar.html"
