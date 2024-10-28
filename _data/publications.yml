@@ -1,4 +1,14 @@
 main:
+  - title: \(L^p\)-Legendre transforms and Mahler integrals\(:\) Asymptotics and the Fokker--Planck heat flow
+    # authors: (with Y.A. Rubinstein),
+    # conference_short: CVPR
+    conference: "in preparation, 2024" 
+    pdf: 
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
 
   - title: Two-dimensional Błocki, \(L^p\)-Mahler, and Bourgain conjectures
     authors: (with Y.A. Rubinstein),
