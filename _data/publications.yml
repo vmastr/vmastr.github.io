@@ -2,8 +2,8 @@ main:
   - title: \(L^p\)-Legendre transforms and Mahler integrals\(:\) Asymptotics and the Fokker-Planck heat flow
     # authors: 
     # conference_short: CVPR
-    conference: "in preparation, 2024" 
-    pdf: 
+    conference: "preprint, 2024, arxiv: 2411:10439." 
+    pdf: https://arxiv.org/abs/2411.10439 
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
