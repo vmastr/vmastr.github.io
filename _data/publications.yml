@@ -24,8 +24,8 @@ main:
   - title: A Santaló inquality for the \(L^p\)-polar body
     # authors: 
     # conference_short: CVPR
-    conference: "preprint, 2024, arxiv: 2401:10836, to appear in Contemp. Math., AMS." 
-    pdf: https://arxiv.org/abs/2401.10836
+    conference: "Contemp. Math. 810 (2025), 31-52." 
+    pdf: https://www.ams.org/books/conm/810/
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
