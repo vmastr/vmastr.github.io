@@ -1,12 +1,24 @@
 main:
 
   - title: ""
+    conference: "Geometric and Functional Inequalities and Applications"
+    location: ""
+    date: "May 26, 2025"
+    link: "https://researchseminars.org/seminar/GeomInequAndPDEs"
+
+  - title: ""
+    conference: "Analysis Seminar"
+    location: "Cornell University,"
+    date: "May 5, 2025"
+    link: "https://pi.math.cornell.edu/m/node/11638"
+
+  - title: ""
     conference: "Analysis Seminar SAMPS"
     location: "Athens, Greece,"
     date: "January 13, 2025"
     link: "https://sites.google.com/view/analysis-seminar-samps/"
   
-  - title: "Lp-Polarity, Mahler Volumes, and the Isotropic constant"
+  - title: ""
     conference: "Measure Theory Seminar"
     location: "Kent State University,"
     date: "March 6, 2024"
