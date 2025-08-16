@@ -4,10 +4,9 @@ layout: homepage
 
 ## About
 
-Welcome to my webpage! I am an H.C. Wang Assistant Professor at [Cornell University](https://math.cornell.edu/). I completed my PhD at the [University of Maryland, College Park](https://www-math.umd.edu/) under the supervision of [Yanir A. Rubinstein](https://math.umd.edu/~yanir/). I am currently in my sixth year, and plan to graduate Spring 2025. I am interested in geometric analysis, convex geometry, several complex variables, and geometric flows.
+Welcome to my webpage! I am an H.C. Wang Assistant Professor at [Cornell University](https://math.cornell.edu/). I am interested in geometric analysis, convex geometry, several complex variables, and geometric flows.
 
-I received my undergraduate degree from the [University of Athens](https://www.math.uoa.gr/) in 2017, and completed the [Part III of the Mathematical Tripos](https://www.maths.cam.ac.uk/postgrad/part-iii/current) at Cambridge University in 2018. 
-
+I completed my PhD at the [University of Maryland, College Park](https://www-math.umd.edu/) under the supervision of [Yanir A. Rubinstein](https://math.umd.edu/~yanir/). Prior to that, I completed [Part III of the Mathematical Tripos](https://www.maths.cam.ac.uk/postgrad/part-iii/current) at Cambridge University in 2018, and received my undergraduate degree in Mathematics from the [University of Athens](https://www.math.uoa.gr/) in 2017. 
 
 
 {% include_relative _includes/books.md %}
