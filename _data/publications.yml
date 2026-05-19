@@ -2,7 +2,7 @@ main:
   - title: \(L^p\)-Legendre transforms and Mahler integrals\(:\) Asymptotics and the Fokker-Planck heat flow
     # authors: 
     # conference_short: CVPR
-    conference: "preprint, 2024, arxiv: 2411:10439." 
+    conference: "arxiv: 2411:10439, to appear in J. Anal. Math." 
     pdf: https://arxiv.org/abs/2411.10439 
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -13,7 +13,7 @@ main:
   - title: Two-dimensional Błocki, \(L^p\)-Mahler, and Bourgain conjectures
     authors: (with Y.A. Rubinstein),
     # conference_short: CVPR
-    conference: "preprint, 2024, arxiv: 2401:10992, to appear in Indiana Univ. Math. J." 
+    conference: "Indiana Univ. Math. J. 75 (2026), 227-284" 
     pdf: https://arxiv.org/abs/2401.10992
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
